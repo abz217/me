@@ -1,6 +1,6 @@
 # Aspiring Data Scientist / Data Analyst
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, UX/UI
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
