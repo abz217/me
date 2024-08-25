@@ -1,4 +1,4 @@
-# Not a data scientist
+# Aspiring Data Scientist / Data Analyst
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
